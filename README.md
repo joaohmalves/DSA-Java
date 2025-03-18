@@ -1,2 +1,2 @@
 # DSA-Java
-Data Structure Algorithms in Java
+All the java codes/leetcode i've done to practice my DSA 
